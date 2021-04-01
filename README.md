@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-Zure (should be `azure` but microsoft)
+- 👋 Hi, I’m @nzure (should be `azure` but microsoft)
 - 👀 I’m interested in Programming (and Anime)
 - 🌱 I’m currently learning [Nim](https://nim-lang.org/)
 - 💞️ I’m looking to collaborate on
