@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @nzure
-- 👀 I’m interested in Programming (and Anime)
-- 🌱 I’m currently learning [Nim](https://nim-lang.org/)
-- 💞️ I’m looking to collaborate on
-    -  Anything really
+- 👀 I’m interested in Programming (and 🏀)
+- 🌱 I’m currently learning [Go]([https://nim-lang.org/](https://go.dev/))
 - 📫 How to reach me
-    - Email: azure@leaft.ch
+    - Email: nzure@leaft.ch
 
 <!---
 a-Zure/a-Zure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
