@@ -1,4 +1,4 @@
-<h1 align="center">It’s me, hi </h1>
+<h1 align="center">It’s me, hi 👋</h1>
 <p align="center"></p>
 
 <p align="center">
