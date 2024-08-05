@@ -13,10 +13,10 @@ Hi im char and I use the internet. Most of my code is on my [Codeberg](https://c
 > Competitive gamer & avid Jepsie / Swiftie
 
 ###  Specs & Gear
-![AMD Ryzen 7 3700X](https://img.shields.io/badge/Ryzen_7_3700X-ed1c24?style=for-the-badge&logo=amd&logoColor=white)
-![CORSAIR 32GB](https://img.shields.io/badge/32_GB-yellow?style=for-the-badge&logo=corsair&logoColor=white)
-![NVIDIA RTX 2060 Super](https://img.shields.io/badge/RTX_2060_Super-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
-![MSI MS 7C37](https://img.shields.io/badge/MS_7C37-ff0000?style=for-the-badge&logo=msi&logoColor=white)
+![AMD Ryzen 7 3700X](https://img.shields.io/badge/Ryzen_9_7900X-ed1c24?style=for-the-badge&logo=amd&logoColor=white)
+![NVIDIA RTX 2060 Super](https://img.shields.io/badge/Sapphire_RX_7900_GRE-26b4fe?style=for-the-badge&logo=amd&logoColor=white)
+![CORSAIR 32GB](https://img.shields.io/badge/XPG_Lancer_32_GB-de0a16?style=for-the-badge)
+![ROG Strix B650A](https://img.shields.io/badge/Strix_B650A-ff0029?style=for-the-badge&logo=republicofgamers&logoColor=white)
 ![NZXT H9 Flow](https://img.shields.io/badge/H9_Flow-000000?style=for-the-badge&logo=nzxt&logoColor=white)
 
 ![Drop Preonic v3](https://img.shields.io/badge/Drop_Preonic_v3-9945ff?style=for-the-badge&logo=qmk&logoColor=white)
